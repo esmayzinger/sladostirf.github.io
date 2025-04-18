@@ -86,32 +86,32 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Безопасность системы
     items:
-      - name: Python
+      - name: Авторизация через Госуслуги для граждан РФ и через электронную подпись для юридических лиц
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: SSL-шифрование для защиты данных пользователей
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Двухфакторная аутентификация для повышения безопасности аккаунтов
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Перспективы развития
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Внедрение блокчейн-технологий для отслеживания происхождения сырья и прозрачности производства
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Разработка мобильного приложения для удобства пользователей
         description: ''
         percent: 100
-        icon: cat
+        icon: Интеграция с международными платформами для экспорта российских сладостей
       - name: Photography
         description: ''
         percent: 80
